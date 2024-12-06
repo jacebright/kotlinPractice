@@ -5,7 +5,7 @@ by category (ie. Breakfast, Asian, Dessert).
 
 My purpose in writing this software was to begin an understanding of the Kotlin language and prepare to understand Android App development through the lense of this crucial language.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/a9LzAkT596g)
 
 # Development Environment
 
